@@ -4,7 +4,7 @@ The achievement of EllipticEnvelope with the ability to combine time series feat
 
 # Desired Features
 - Big dataset processing with Spark
-- High Speed of Detection with Scala as the choice for feature-engineering
+- High speed of detection with Scala as the choice for feature-engineering
 - Waiting to confirm the dataset to detect
 - Detect the features with time (by spliting the detection with a specific parameter)
 
